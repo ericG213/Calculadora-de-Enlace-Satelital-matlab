@@ -99,11 +99,11 @@ El = arctan( (42164.2 − 6378.155 × wo) / (6378.155 × sin(arccos(wo))) ) − 
 
 1. Abre MATLAB
 2. Navega a la carpeta del proyecto
-3. Abre `examencom.mlapp` desde el explorador de MATLAB
+3. Abre `CES.mlapp` desde el explorador de MATLAB
 4. Haz clic en **Run** (▶), o desde la consola:
 
 ```matlab
-examencom
+CES
 ```
 
 ---
@@ -114,7 +114,7 @@ examencom
 proyecto-matlab/
 ├── docs/
 │   └── app.png         # Captura de la aplicación
-├── examencom.mlapp     # Aplicación principal
+├── CES.mlapp     # Aplicación principal
 └── README.md
 ```
 
